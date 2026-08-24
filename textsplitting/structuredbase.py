@@ -14,5 +14,4 @@ splitter=RecursiveCharacterTextSplitter(
 )
 
 split_text=splitter.split_documents(res);
-for x in split_text:
-    print(x.page_content)
+print(split_text)
