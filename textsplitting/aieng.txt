@@ -1,0 +1,5 @@
+An AI Engineer is a technology professional who designs, develops, and deploys artificial intelligence systems that can solve complex problems, automate tasks, and support better decision-making. AI Engineers work with technologies such as machine learning, deep learning, natural language processing, computer vision, and generative AI.
+
+Their responsibilities may include preparing data, building and training machine learning models, evaluating model performance, integrating AI solutions into applications, and monitoring systems after deployment. They often work with programming languages such as Python and use frameworks and tools like TensorFlow, PyTorch, and cloud-based AI platforms.
+
+To become an AI Engineer, a strong foundation in mathematics, statistics, programming, and machine learning is important. Problem-solving skills, curiosity, and the ability to continuously learn new technologies are also valuable. As AI continues to transform industries, AI Engineers play an important role in creating intelligent, efficient, and innovative solutions.
