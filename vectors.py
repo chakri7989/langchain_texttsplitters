@@ -25,7 +25,7 @@ doc4 = Document(
     metadata={"team": "Mumbai Indians"}
 )
 doc5 = Document(
-    page_content="Ravindra Jadeja is a dynamic all-rounder who contributes with both bat and ball. Representing Chennai Super Kings, his quick fielding and match-winning performances make him a key player.",
+    page_content="Jadeja is a dynamic all-rounder who contributes with both bat and ball. Representing Chennai Super Kings, his quick fielding and match-winning performances make him a key player.",
     metadata={"team": "Chennai Super Kings"}
 )
 docs = [doc1, doc2, doc3, doc4, doc5]
