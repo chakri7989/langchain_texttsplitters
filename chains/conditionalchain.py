@@ -8,7 +8,8 @@ from langchain_core.runnables import RunnableBranch,RunnableLambda
 
 load_dotenv()
 
-model=ChatGoogleGenerativeAI(model='gemini-3.7-flash')
+model=ChatGoogleGenerativeAI(model='' \
+'')
 
 class Review(BaseModel):
     feedback:Literal["positive","negative"]=Field(description="give the sentimennt about the feedback")
