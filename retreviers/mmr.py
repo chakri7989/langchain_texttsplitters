@@ -27,3 +27,5 @@ result=retriever.invoke(query)
 
 for i in range(len(result)):
     print(result[i].page_content)
+
+# Note: type of retrievers
