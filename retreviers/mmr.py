@@ -19,7 +19,7 @@ vectore_store=Chroma(
 doc=[doc1,doc2,doc3,doc4,doc5]
 vectore_store.add_documents(doc)
 
-retriever=vectore_store.as_retriever(search_type="mmr",search_kwargs={"k":2,"lambda_unit":0.5})
+retriever=vectore_store.as_retriever(search_type="mmr",search_kwargs={"k":1,"lambda_unit":0.5})
 
 query="Tell me about powerful superheroes"
 
